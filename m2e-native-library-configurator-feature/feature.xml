@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="m2e.native.library.configurator.feature"
+      label="Maven Native Library Location Configurator"
+      version="1.0.0.qualifier"
+      provider-name="Adrián Boimvaser"
+      arch="ia64,ia64_32,PA_RISC,ppc,sparc,x86,x86_64">
+
+   <description>
+      Foo bar baz
+   </description>
+
+   <copyright>
+      Foo bar baz
+   </copyright>
+
+   <license url="">
+      Foo Bar Baz
+   </license>
+
+   <plugin
+         id="m2e.native.library.configurator"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>
